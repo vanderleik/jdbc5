@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/deletar-dados/deletar-dados.iml" filepath="$PROJECT_DIR$/deletar-dados/deletar-dados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jdbc5.iml" filepath="$PROJECT_DIR$/.idea/jdbc5.iml" />
+    </modules>
+  </component>
+</project>
